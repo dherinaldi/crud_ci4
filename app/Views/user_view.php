@@ -7,11 +7,7 @@
 </head>
 
 <body> 
-<a class="btn btn-default" href="/user/add_new" role="button">Add</a>
-<?php 
-/*echo "http://".$_SERVER['HTTP_HOST'];
-echo current_url();*/
-?>
+	<a class="btn btn-default" href="/user/add_new" role="button">Add</a>
 
 	<table>
 		<thead>
